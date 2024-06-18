@@ -1,6 +1,6 @@
 # Maze Solver in Python
 
-This is a project from the [Boot.Dev](https://www.boot.dev/) curriculum.
+This is a project from the [Boot.dev](https://www.boot.dev/) curriculum.
 
 It generates a maze with a Depth First algorithm into a tkinter GUI and then the maze solves itself using a Breadth First algorithm.
 
