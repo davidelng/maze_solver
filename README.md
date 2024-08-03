@@ -15,3 +15,13 @@ A new window should open and you should see a random maze generating and then so
 ## Tests
 
 Run `test.sh` from the project root to run tests.
+
+## Ideas for extending the project
+
+- Add other solving algorithms, like breadth-first search or A\*
+- Make the visuals prettier, change the colors, etc
+- Mess with the animation settings to make it faster/slower. Maybe make backtracking slow and blazing new paths faster?
+- Add configurations in the app itself using Tkinter buttons and inputs to allow users to change maze size, speed, etc
+- Make it a game where the user chooses directions
+- Make it 3 dimensional
+- Time the various algorithms and see which ones are the fastest

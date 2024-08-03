@@ -117,7 +117,7 @@ class Maze:
     # create the moves for the solution using a depth first search
     def solve(self):
         return self._solve_r(0, 0)
-    
+
     # returns True if this is the end cell, OR if it leads to the end cell.
     # returns False if this is a loser cell.
     def _solve_r(self, i, j):
